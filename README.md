@@ -1,5 +1,5 @@
 # TWRP Device configuration for Motorola One Fusion
-Moved to https://github.com/sdm710-motorola/android_device_motorola_astro_twrp
+#Moved to https://github.com/sdm710-motorola/android_device_motorola_astro_twrp
 ## Device specifications
 
 Basic   | Spec Sheet
